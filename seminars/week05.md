@@ -4,7 +4,12 @@ Author: Justin Perona
 
 # Week 5
 
-**Under construction.**
+This week's focus is on how you learn and how others learn.
+First, we will reflect on our own learning and discuss what works and doesn't work for us.
+From there, we will move on to the Universal Design for Learning (UDL).
+The reading for this week introduced you to UDL; we'll talk more about it and how it ties into the ways people learn.
+
+The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
 ## Initial Reflection About Learning [10 min]
 
@@ -12,16 +17,21 @@ Author: Justin Perona
 
 ### Brainstorming
 
-After this, we're going to be talking about learning styles and strategies.
+Today, we're going to be talking about learning styles and strategies.
 To get you in the proper mindset for the discussion, I want you to reflect on how you, as a *student* (not an instructor), learn.
 You're a graduate student in computer science at UC Davis.
 You needed to have done well at your previous institution to get here, so you have probably found a system that works for you.
 
-Take out your preferred method of brainstorming.
-I'll have some pens and some scratch paper up front if you need it, but you can also write on your laptop or phone if you think it's more conducive to brainstorming.
-Write down your thoughts.
-I'm not going to be collecting this, nor will you be graded on it.
+For the next 10 minutes, you will brainstorm on how you learn.
+I will pass around scratch paper to everyone, as well as a fewer number of pens if you need one.
+Write your name on the scratch paper, as this will serve as the sign-in sheet for today.
+Then, write down your thoughts.
+You will not be graded on what you write.
 This is solely for your benefit and to help guide the discussion that follows.
+
+*Make sure you write down your name on the scratch paper for brainstorming.
+This is the sign-in sheet for today.
+It will be collected, but I am not grading what you write.*
 
 ### Reflection Prompts
 
@@ -50,7 +60,7 @@ At the start, I'll ask if anyone is willing to share what they've written down.
 I'll share my own answers if the discussion permits.
 
 From there, I'll allow the discussion to flow naturally.
-If there's a lull, I'll ask the following, but we're not required to get to them all.
+If there's a lull, I'll ask the following questions, but we're not required to get to them all.
 
 * Have you spent much time thinking about how you learn before? Or was this new?
 * What kinds of things did you notice when you were reflecting?
@@ -59,7 +69,7 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 ## Universal Design for Learning [25 min]
 
-*Tying accessibility to inclusiveness.*
+*How we can improve learning for everyone.*
 
 ### Reading From Last Week
 
@@ -71,7 +81,7 @@ After that, I'll ask for any comments or questions on the reading.
 ### Examples
 
 From there, we will go through some examples in the spirit of UDL.
-These examples focus on improving the accessibility of classes and how that ties to the idea of inclusiveness.
+These examples focus on improving the accessibility of classes and how that can influence somebody's ability to learn in a class.
 
 #### Accessibility
 
@@ -81,7 +91,7 @@ I will write these on the board.
 #### Impact
 
 After we have come up with some examples to improve accessibility, we will go through each example in turn.
-For each of these examples, think about the impact that each may have on how a student feels in a class.
+For each of these examples, think about the impact that each may have on how a student feels in a class, and the impact that each could have on how well they learn.
 I will write these impacts on the board as well.
 
 #### Personal Experiences
@@ -100,7 +110,8 @@ If you can't think of any examples, here are two of them:
 Once we complete the topic, I will ask why we covered UDL today right after discussing how you as a student learn in a classroom.
 There is a specific answer I am looking for, which is the one thing I hope that you take away from today.
 
-Finally, I'll ask if anyone has any questions before we move on.
+Finally, I'll ask if anyone has any questions before we finish for today.
+I will also collect the sign-in sheets that you were using for brainstorming earlier.
 
 ## Assignment for This Week
 

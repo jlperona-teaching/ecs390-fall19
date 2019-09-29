@@ -73,13 +73,13 @@ When you begin discussing some of the weak points in their assignment, they begi
 
 #### Scenario 2
 
-In office hours, a student gets increasingly frustrated when listening to your feedback on her recent work.
-Eventually she has a hostile outburst, blaming your teaching skills for her difficulty with the assignments.
+In office hours, a student gets increasingly frustrated when listening to your feedback on their recent work.
+Eventually they have a hostile outburst, blaming your teaching skills for their difficulty with the assignments.
 
 #### Scenario 3
 
 A student appears to be less motivated and not taking the work as seriously.
-When you meet with her in office hours, she makes it clear that she does not feel challenged and can finish her work much faster than her classmates.
+When you meet with them in office hours, they make it clear that they do not feel challenged and can finish their work much faster than their classmates.
 
 #### Discussion Prompts
 

@@ -9,6 +9,8 @@ I'll bring up some of the topics mentioned in the previous week's homework; you'
 I'll point out some other educational resources that may be helpful in your role as a TA.
 Finally, we'll wrap things up and I'll ask for your feedback.
 
+Some of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
+
 ## Bringing It All Back [5 min]
 
 *Making connections to the rest of the course.*
@@ -26,6 +28,10 @@ We're going to spend the first part of this final class talking about answers to
 
 I will try my best to go through the following topics that you and your fellow students brought up in the last assignment.
 Some of these topics honestly deserve classes of their own, but I'll try my best to touch on all of them.
+
+**Under construction.**
+
+### Attendance
 
 **Under construction.**
 
@@ -85,7 +91,7 @@ It's due before the start of finals so I can finalize the grades as quickly as p
 #### Giving Good Feedback
 
 In the spirit of this class being about improving your teaching ability, here's some resources about feedback from the [Students Assessing Teaching And Learning (SATAL) Program](https://cetl.ucmerced.edu/satal) from UC Merced.
-Admittedly, this is for students rather than TAs or instructors, but I think it's useful to point out.
+Admittedly, this is for students rather than TAs or instructors, but I think it's useful for everyone.
 
 The SATAL Program created [this useful rubric](https://d1b10bmlvqabco.cloudfront.net/attach/jqitg8o5zp125/j7z56pnupw9461/jt0c3yml2fz2/shs_rubric.pdf) (also available on [Canvas](https://canvas.ucdavis.edu/files/6660862/download?download_frd=1)) on how to give useful feedback to instructors on their classes.
 They've divided it into highly useful, somewhat useful, and not useful feedback that students can give to instructors to improve their courses and teaching.

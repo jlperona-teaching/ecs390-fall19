@@ -74,7 +74,8 @@ Rearrange yourselves so that you can all discuss with each other.
 
 Read through the first scenario, which will be shown on the projector.
 Once everyone is done reading, respond to the discussion prompts below.
-Halfway through the discussion, I will call out for everyone to start discussing the second scenario.
+Once you're done with the first scenario, proceed to the second one.
+I will announce when 7.5 minutes have passed; at that time, you should move on to discussion the second scenario.
 
 I will provide a piece of scratch paper and a pen to each group.
 Each group will assign a scribe to write down their responses to each question.

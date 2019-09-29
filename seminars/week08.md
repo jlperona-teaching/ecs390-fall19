@@ -36,7 +36,7 @@ After we go through the slides, I will ask for any questions about what we just 
 
 Now that we have covered a bit about tone, let's move to a discussion about your experiences with feedback.
 
-I will pass around a questionnaire to each person that will look like the ballot from week 1.
+I will pass around a questionnaire to each person.
 Please write your name on the questionnaire, as this will serve as the sign in sheet for today.
 There will be one question on the questionnaire.
 Please mark *Yes* or *No* on the questionnaire in response to the following question:
