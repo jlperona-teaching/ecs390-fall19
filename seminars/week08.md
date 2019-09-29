@@ -73,8 +73,8 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 
 These examples were provided to me by Jason Lowe-Power of UC Davis.
 
-[This feedback rubric](https://canvas.ucdavis.edu/files/6660862/download?download_frd=1) from UC Merced provides some useful examples of what is useful feedback, and what isn't.
-You can also look at [this 3 minute video on YouTube](https://www.youtube.com/watch?v=8-aaKMva4lc) from the same group at UC Merced.
+[This feedback rubric](https://canvas.ucdavis.edu/files/6660862/download?download_frd=1) from the [Students Assessing Teaching And Learning (SATAL) Program](https://cetl.ucmerced.edu/satal) from UC Merced provides some useful examples of what is useful feedback, and what isn't.
+You can also look at [this 3 minute video on the same topic on YouTube](https://www.youtube.com/watch?v=8-aaKMva4lc) from the SATAL Program as well.
 
 ## What is Emotional Intelligence [10 min]
 
