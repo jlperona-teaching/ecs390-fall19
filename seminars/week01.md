@@ -27,11 +27,11 @@ I will pass around half-page questionnaires that will serve as the attendance fo
 The questionnaire will ask you about:
 
 * Your name
-* Your major
-* Your year
+* Your degree objective
+* How many years you have been in the program
 * Your research focus
-* What you hope to get out of this class
-* Your favorite restaurant in Davis
+* A hobby of yours
+* Something you hope to get out of this class
 
 *Only I will know exactly what you marked.
 I will not reveal your answers to anyone else.
