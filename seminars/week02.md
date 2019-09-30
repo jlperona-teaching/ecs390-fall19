@@ -35,13 +35,22 @@ When I have finished counting, I will reveal the results in the aggregate.
 ### Notes
 
 Now that we have some context, we're going to go over some guidelines and responsibilities for teaching CS here at UC Davis.
-This was originally developed by Sean Davis, who was a long-time lecturer here before retiring a couple of years ago.
+This was originally developed by Sean Davis, who was a long-time lecturer here before retiring a couple of years ago (though you might see him around next quarter).
 I took his version of this and added some of my own observations and notes to it.
 You can find the PDF version of it [here on GitHub](../notes/teaching-guidelines-responsibilities.pdf).
 
+Going over the entire document would probably take a couple of hours.
+Instead, we're going to go over points that I think are particularly important, which are **bolded** in the document.
+
 ## Union Presentation [20 min]
 
+Afterwards, we will have a brief presentation from [UAW 2865](https://uaw2865.org/), the union for academic student employees in the UC system.
+
 **Under construction.**
+
+*Note*: I work with the department that employs you in addition to being the instructor for this class.
+It is against federal law for me to coerce you to join the union.
+*Deciding to join the union or not has absolutely no impact on your grade in this class, nor with your employment status with the Department of Computer Science*.
 
 ## Assignment for This Week
 
