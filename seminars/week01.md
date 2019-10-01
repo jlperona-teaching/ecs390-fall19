@@ -11,7 +11,7 @@ After that, we'll talk about the different *hats* that TAs wear.
 
 Some of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
 
-## Introductions [20 min]
+## Introductions [15 min]
 
 *Get to know each other a little bit better.*
 
@@ -48,7 +48,7 @@ You can use that to meet somebody new, if you'd like!
 After we are done introducing ourselves, I will collect the questionnaires.
 We will then move on to the next topic.
 
-## Class Guidelines and Expectations [20 min]
+## Class Guidelines and Expectations [25 min]
 
 *My plans and your hopes for this class.*
 

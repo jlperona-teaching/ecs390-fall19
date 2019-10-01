@@ -117,11 +117,6 @@ I will also collect the sign-in sheets that you were using for brainstorming ear
 
 *What type of mindset do you have?*
 
-### Logistics
-
-*Note*: there is no class next Monday, 2019-11-04, due to the Veterans Day holiday.
-You have two weeks to do this assignment, which is due on Monday, 2019-11-11 at 15:00.
-
 ### Reading
 
 Read through *Mindset: The New Psychology of Success* by Carol Dweck of Stanford University.

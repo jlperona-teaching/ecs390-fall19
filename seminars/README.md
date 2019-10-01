@@ -1,7 +1,7 @@
 # Seminars
 
 This folder contains the schedule for each week's seminar.
-`week06.md` is missing since that week is a holiday this quarter.
+`week07.md` is missing since that week is a holiday this quarter.
 
 ## Format
 

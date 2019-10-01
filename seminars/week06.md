@@ -2,7 +2,7 @@
 Author: Justin Perona
 ---
 
-# Week 7
+# Week 6
 
 This week's focus is all about mindset and self-efficacy.
 The assignment due today should have given you an idea about mindset and some insight into what your mindset is.
@@ -150,6 +150,11 @@ If there's a lull, I'll ask the following, but we're not required to get to them
 ## Assignment for This Week
 
 *What constitutes good feedback?*
+
+### Logistics
+
+*Note*: there is no class next Monday, 2019-11-11, due to the Veterans Day holiday.
+You have two weeks to do this assignment, which is due on Monday, 2019-11-18 at 15:00.
 
 ### Reading
 
