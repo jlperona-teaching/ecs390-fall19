@@ -18,7 +18,7 @@ If there's time, then we will have a longer discussion on these tools.
 
 ### Attendance
 
-After the introduction, I will pass around a sign in sheet to each person that will look like the ballots from previous classes.
+After the introduction, I will pass around a sign in sheet to each person.
 Please write your name down on your sign in sheet.
 I will collect them at the end of class.
 

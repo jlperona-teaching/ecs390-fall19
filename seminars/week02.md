@@ -44,9 +44,15 @@ Instead, we're going to go over points that I think are particularly important, 
 
 ## Union Presentation [20 min]
 
-Afterwards, we will have a brief presentation from [UAW 2865](https://uaw2865.org/), the union for academic student employees in the UC system.
+Afterwards, we will have a guest presentation from Deborah Young, one of the chairs of the Davis Unit of [UAW 2865](https://uaw2865.org/).
+As per Deborah:
 
-**Under construction.**
+> UAW Local 2865 is the union of 19,000 TAs, Readers, and Tutors at the University of California who bargain collectively for better pay, benefits, rights, and workplace protections.
+> The Union negotiates successfully with UC because a majority of student workers chose to become union members.
+> Thanks to the participation of thousands of workers, our contract includes yearly raises and fee remission; workload protections, healthcare, and many other rights you can read about [here](http://uaw2865.org/know-your-rights/contract-highlights/).
+> The presentation on our union will cover how your union works, our contract rights, and ways to get involved.
+
+The presentation will run until the end of class.
 
 *Note*: I work with the department that employs you in addition to being the instructor for this class.
 It is against federal law for me to coerce you to join the union.
