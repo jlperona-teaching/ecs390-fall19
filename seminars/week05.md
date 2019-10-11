@@ -29,7 +29,7 @@ Then, write down your thoughts.
 You will not be graded on what you write.
 This is solely for your benefit and to help guide the discussion that follows.
 
-*Make sure you write down your name on the scratch paper for brainstorming.
+*Make sure you write down your name and student ID number on the scratch paper for brainstorming.
 This is the sign-in sheet for today.
 It will be collected, but I am not grading what you write.*
 

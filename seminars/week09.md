@@ -59,7 +59,7 @@ I will announce when 5 and 10 minutes have passed; at that time, you should wrap
 
 I will provide a piece of scratch paper and a pen to each group.
 Each group will assign a scribe to write down their responses for each scenario.
-*Make sure everybody writes down their names on the scratch paper.
+*Make sure everybody writes down their names and student ID numbers on the scratch paper.
 This is the sign-in sheet for today.
 It will be collected, but I am not grading what you write.*
 

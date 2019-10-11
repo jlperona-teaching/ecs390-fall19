@@ -19,7 +19,7 @@ Interestingly enough, this information (particularly on whether you've TAed in t
 I'll use the results to this question to tailor the next section appropriately.
 
 I will pass around a questionnaire to each person that will look like previous ballots in the class.
-Please write your name on the questionnaire, as this will serve as the sign in sheet for today.
+Please write your name and student ID number on the questionnaire, as this will serve as the sign in sheet for today.
 There will be one question on the questionnaire.
 Please mark *Yes* or *No* on the questionnaire in response to the following question:
 

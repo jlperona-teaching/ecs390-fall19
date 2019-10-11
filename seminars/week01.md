@@ -27,6 +27,7 @@ I will pass around half-page questionnaires that will serve as the attendance fo
 The questionnaire will ask you about:
 
 * Your name
+* Your student ID number
 * Your degree objective
 * How many years you have been in the program
 * Your research focus
