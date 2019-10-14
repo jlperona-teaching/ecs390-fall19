@@ -27,6 +27,8 @@ Aakash will talk about and demo the following tools that he's used:
 * [*Jupyter Notebook*](https://jupyter.org/)
 * [*NBGrader*](https://github.com/jupyter/nbgrader)
 
+His slides (minus the demo portion) are available [here](https://docs.google.com/presentation/d/1E5Ua79zW7wpxsN93KKKERsOsIw-IOLQbOir0tRKvPh4/edit?usp=sharing).
+
 ### Attendance
 
 After the introduction, I will pass around a sign in sheet to each person.
