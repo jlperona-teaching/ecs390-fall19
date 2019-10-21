@@ -52,19 +52,28 @@ I will sometimes do a practice presentation two or three times to test it out.
 If I catch something, I'll edit my notes and repeat it again until I'm happy with how things turned out.
 You should practice your presentation at least once before class.
 
-### Your Presentation
+### In Class
 
-Your presentation should take around 4-5 minutes.
+#### Presentation Groups and Timing
 
-**Under construction.**
+You will be in a group with four other students, so five students total.
+Your presentation should take around 4-5 minutes; somebody in your group should time each presentation as that's a question on the feedback form.
+After your presentation has finished, there will be approximately 2-3 minutes where each person in your group will ask you a question.
+This is to help you practice repeating students' questions.
 
-### Feedback for Others
+I will call out every seven minutes to let groups know that they should be finishing up with the current presenter and starting the next presentation.
+
+#### Feedback for Others
 
 Before we start the presentations, I will pass out a feedback form to everyone.
+You can find a copy of that feedback form [here on GitHub](../notes/presentation-feedback.pdf).
+Follow the instructions on the feedback form itself once we get started with the presentations.
+Also, *make sure to write your name down on your notes that you are going to use for your presentation*, as you will need to turn those in as well.
 
-**Under construction.**
+There are four feedback sections for you to fill out during and after the presentation for the other people in your group.
+Additionally, there is a section for you to fill out after your own presentation.
 
-### Attendance and Returning Feedback
+#### Attendance and Returning Feedback
 
 At the end of the class, I will collect everyone's feedback forms and presentation notes.
 You will receive credit for attendance this week if you did the following:
