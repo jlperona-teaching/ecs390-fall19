@@ -23,13 +23,13 @@ You're a graduate student in computer science at UC Davis.
 You needed to have done well at your previous institution to get here, so you have probably found a system that works for you.
 
 For the next 10 minutes, you will brainstorm on how you learn.
-I will pass around scratch paper to everyone, as well as a fewer number of pens if you need one.
-Write your name on the scratch paper, as this will serve as the sign-in sheet for today.
+I will pass around a brainstorming paper to everyone.
+Write your name and student ID number on the brainstorming paper, as this will serve as the sign-in sheet for today.
 Then, write down your thoughts.
 You will not be graded on what you write.
 This is solely for your benefit and to help guide the discussion that follows.
 
-*Make sure you write down your name and student ID number on the scratch paper for brainstorming.
+*Make sure you write down your name and student ID number on the brainstorming paper.
 This is the sign-in sheet for today.
 It will be collected, but I am not grading what you write.*
 
@@ -119,7 +119,7 @@ I will also collect the sign-in sheets that you were using for brainstorming ear
 
 ### Reading
 
-Read through *Mindset: The New Psychology of Success* by Carol Dweck of Stanford University.
+Read through Chapter 1 of *Mindset: The New Psychology of Success* by Carol Dweck of Stanford University.
 You can find a PDF in the [Files section on Canvas](https://canvas.ucdavis.edu/files/6660990/download?download_frd=1).
 Also, you should go through the two questionnaires and figure out what type of mindset you have for both intelligence and personality.
 (If you're disappointed with the mindsets you got, re-read the last sentence of the chapter again.)
