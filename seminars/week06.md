@@ -77,9 +77,9 @@ Once everyone is done reading, respond to the discussion prompts below.
 Once you're done with the first scenario, proceed to the second one.
 I will announce when 7.5 minutes have passed; at that time, you should move on to discussion the second scenario.
 
-I will provide a piece of scratch paper and a pen to each group.
+I will provide a piece of discussion paper to each group.
 Each group will assign a scribe to write down their responses to each question.
-*Make sure everybody writes down their names and student ID numbers on the scratch paper.
+*Make sure everybody writes down their names and student ID numbers on the discussion paper.
 This is the sign-in sheet for today.
 It will be collected, but I am not grading what you write.*
 
