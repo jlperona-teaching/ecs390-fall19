@@ -5,7 +5,7 @@ Author: Justin Perona
 # Week 8
 
 This week's focus is on criticism and feedback.
-We will talk about how to deliver criticism and what constitutes effective feedback, and tie that to the reading from last week.
+We will talk about how to deliver criticism and what constitutes effective feedback, and tie that to the reading for today's class.
 Finally, we will segue into a short introduction to emotional intelligence, which we will cover in more detail next week.
 
 The majority of the content for this week was derived from the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.
@@ -16,7 +16,7 @@ The majority of the content for this week was derived from the [*MaGE* Resources
 
 ### Reading From Last Week
 
-To start this topic, we will talk about the paper reading from last week.
+To start this topic, we will talk about the paper reading for today's class.
 I'll ask about what its insights were on feedback, and if the authors mentioned anything about tone.
 After that, I'll ask for any comments or questions on the reading.
 
