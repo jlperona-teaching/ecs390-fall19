@@ -57,9 +57,9 @@ Once you're done with a scenario, move on to another one.
 Plan to take about 5 minutes for each scenario.
 I will announce when 5 and 10 minutes have passed; at that time, you should wrap up the discussion of your current scenario and move on to another one.
 
-I will provide a piece of scratch paper and a pen to each group.
+I will provide a piece of discussion paper to each group.
 Each group will assign a scribe to write down their responses for each scenario.
-*Make sure everybody writes down their names and student ID numbers on the scratch paper.
+*Make sure everybody writes down their names and student ID numbers on the discussion paper.
 This is the sign-in sheet for today.
 It will be collected, but I am not grading what you write.*
 
