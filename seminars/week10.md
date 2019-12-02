@@ -24,16 +24,53 @@ We're going to spend the first part of this final class talking about answers to
 
 *Guided discussion based on your responses to the previous homework.*
 
+### Attendance
+
+Before we continue any further, I will pass around a sign in sheet to each person.
+Please write your name and student ID number down on your sign in sheet.
+I will collect them at the end of class.
+
+### Sexual Harassment
+
+At the request of another instructor, I'm going to touch on this topic briefly.
+You should have attended a mandatory workshop on sexual violence intervention and prevention (SVPT) as part of your enrollment process.
+It was also talked about at TA Orientation—see [The TA's Guide to Effective Teaching at UC Davis](https://ucdavis.app.box.com/s/9w6xxlfuvfzeb8j5mnd787kbj0osiuav) by the [Center for Educational Effectiveness (CEE)](https://cee.ucdavis.edu/) for more information.
+
+The ECE department has a very good section in their [TA Handbook](https://www.ece.ucdavis.edu/graduate/ta-handbook/interact/#sexual-harassment) on sexual harassment.
+I'm going to focus on one point in particular, which is their examples of how instructors can misuse their power.
+The examples that they wrote include:
+
+* Asking a student for sexual favors in exchange for better grades, a recommendation, or other academic benefit.
+* Asking a student personal questions which makes the student feel uncomfortable.
+* Making personal jokes or comments about students.
+* Pressuring student to spend time with them outside the academic setting, including urging a student to get romantically and/or sexually involved.
+* Touching a student when and where the student doesn’t want to be touched. This could include hugging, grabbing, brushing against him or her, sitting or standing too close, and more.
+
+An unequal power dynamic exists between a TA and a student.
+Something which may not even seem coercive, such as asking a student for a social media username, can potentially be seen as coercive by a student depending on the context.
+Keep that in mind when interacting with students.
+Making friends with your students is completely fine.
+Going past casual friends is potentially problematic.
+
 ### Further Topics
 
 I will try my best to go through the following topics that you and your fellow students brought up in the last assignment.
 Some of these topics honestly deserve classes of their own, but I'll try my best to touch on all of them.
 
-**Under construction.**
-
-### Attendance
-
-**Under construction.**
+* Emotional intelligence
+    * Self-motivation and regulation
+    * Separating your career from your personal life or "leaving it at the door"
+    * Teaching emotional intelligence (explicitly or as a part of other topics)
+    * Using emotional intelligence in the context of your teaching
+* Issues working with your instructor and classmates
+    * Combining the TA-student dynamic with social circles (lab, coworkers, etc.)
+    * Instructor showing favoritism among TAs
+    * Unresponsive instructor
+* Teaching strategies
+    * Best practice towards teaching different parts of computer science
+    * Differences in teaching between cultures
+    * Improving your teaching skills despite your workload or motivation towards what you're teaching
+    * Pivoting your teaching style towards the newest generation of students
 
 ## Final Questions [if time]
 
@@ -52,7 +89,14 @@ It can be about topics that we've covered in this course, or something else that
 
 From the assignment from the previous week, people mentioned that they learned about the following topics:
 
-**Under construction.**
+* Duties of a TA (beyond leading discussion sections and grading)
+* Educational tools
+* Emotional intelligence and interacting with students (especially distressed or distressing students)
+* Mindsets, how students learn, and differences between them
+* Other resources to improve your teaching ability
+* Presentation and lecture skills
+* Teaching strategies and their contextuality
+* Universal Design for Learning (UDL) and accessibility
 
 I'm glad to see that people learned a variety of things from this course!
 
