@@ -62,8 +62,9 @@ Some of these topics honestly deserve classes of their own, but I'll try my best
     * Separating your career from your personal life or "leaving it at the door"
     * Teaching emotional intelligence (explicitly or as a part of other topics)
     * Using emotional intelligence in the context of your teaching
-* Issues working with your instructor and classmates
+* Issues working with your instructor, students, and classmates
     * Combining the TA-student dynamic with social circles (lab, coworkers, etc.)
+    * Examples of difficult situations when TAing
     * Instructor showing favoritism among TAs
     * Unresponsive instructor
 * Teaching strategies
@@ -89,6 +90,7 @@ It can be about topics that we've covered in this course, or something else that
 
 From the assignment from the previous week, people mentioned that they learned about the following topics:
 
+* Creating a supportive environment in the classroom
 * Duties of a TA (beyond leading discussion sections and grading)
 * Educational tools
 * Emotional intelligence and interacting with students (especially distressed or distressing students)
