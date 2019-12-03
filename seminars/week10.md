@@ -98,7 +98,7 @@ From the assignment from the previous week, people mentioned that they learned a
 * Other resources to improve your teaching ability
 * Presentation and lecture skills
 * Teaching strategies and their contextuality
-* Universal Design for Learning (UDL) and accessibility
+* Universal Design for Learning (UDL), accessibility, and inclusiveness
 
 I'm glad to see that people learned a variety of things from this course!
 
