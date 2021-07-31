@@ -12,7 +12,7 @@ I use Markdown pretty much everywhere else, and it continues to make sense here.
 
 ## Inspiration
 
-Some topics were written by me, and are licensed under CC BY 4.0.
+Some topics were written by me, and are licensed under CC BY-SA 4.0.
 See the [license file](../LICENSE) for more information.
 
 Other topics are heavily based on the [*MaGE* Resources](https://sites.google.com/mtholyoke.edu/mage-training-curriculum/home) provided by the *MaGE* Program.

@@ -10,7 +10,7 @@ Inspiration for this course was drawn from the following people or programs:
 * *Sean Davis* of UC Davis for some of the course content
 * the *MaGE* program at Mount Holyoke College for some of the course content
 
-Content is licensed under CC BY 4.0.
+Content is licensed under CC BY-SA 4.0.
 See the LICENSE file for more information.
 
 ## Table of Contents
